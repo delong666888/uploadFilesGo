@@ -1,6 +1,7 @@
 ﻿# uploadFilesGo
 ### 实现已有文件检测上传，监听新文件创建上传
 ### 实现上传成功把文件移动到其他目录
+
 ###　fsnotify
 > 仓库: github.com/fsnotify/fsnotify
 > 
